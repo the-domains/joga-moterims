@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Poilsinė Stovykla Moterimiai Nebijančiai Būti Savimi
-datePublished: '2016-02-10T02:51:36.262Z'
-dateModified: '2016-02-10T02:50:09.007Z'
+description: Poilsinė Stovykla Moteriai Nebijančiai Būti Savimi
+datePublished: '2016-02-10T02:52:43.801Z'
+dateModified: '2016-02-10T02:52:18.848Z'
 title: 'JOGA MOTERIMS '
 author: []
 sourcePath: _posts/2016-02-10-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
