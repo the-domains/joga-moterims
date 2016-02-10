@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-10T02:42:02.938Z'
-dateModified: '2016-02-10T02:41:36.956Z'
-title: Poilsinė Stovykla Moteriai Nebijančiai Būti Savimi
+description: Poilsinė Stovykla Moterimiai Nebijančiai Būti Savimi
+datePublished: '2016-02-10T02:51:36.262Z'
+dateModified: '2016-02-10T02:50:09.007Z'
+title: 'JOGA MOTERIMS '
 author: []
 sourcePath: _posts/2016-02-10-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
 published: true
@@ -19,10 +18,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: joga-moterims/index.html
+_type: Article
 
 ---
-****Poilsinė Stovykla Moteriai Nebijančiai Būti Savimi****
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4dc053c6b953679ea581235d5830d94ca60ff9d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06c978c0-d478-41f5-a1d9-51a6c8e9895f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb0cefd-c662-4d43-a6a3-ae46a85feffc.jpg)
