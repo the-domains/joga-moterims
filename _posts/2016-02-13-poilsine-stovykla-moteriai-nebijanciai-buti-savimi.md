@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T20:11:42.769Z'
-dateModified: '2016-02-13T20:11:33.119Z'
+datePublished: '2016-02-13T20:12:50.959Z'
+dateModified: '2016-02-13T20:12:45.552Z'
 title: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 author: []
 sourcePath: _posts/2016-02-13-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
