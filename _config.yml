@@ -1,4 +1,4 @@
-name: JogaMoterimSuVilma
+name: Joga Moterims Su Vilma
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.642795970896259
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#da0000'
-    - '#f15d00'
-    - '#823400'
-    - '#f1e44b'
-  brandStrength: 0.5
-  lightness: 0.0625
+    - '#000000'
+    - '#4c2100'
+    - '#927e59'
+    - '#c2a37e'
+    - '#6e4600'
+  brandStrength: 0
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0
 purpose: []
