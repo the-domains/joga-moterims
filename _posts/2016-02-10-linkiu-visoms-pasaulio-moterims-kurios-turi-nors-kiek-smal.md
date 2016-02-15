@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T01:09:17.438Z'
-dateModified: '2016-02-14T01:09:14.044Z'
+datePublished: '2016-02-15T04:39:14.045Z'
+dateModified: '2016-02-14T02:14:19.201Z'
 title: '"Linkiu visoms pasaulio moterims, kurios turi nors kiek smalsumo ir žingeidumo išmėginti pasibuvimą su Vilma ir išmokti nieko nedarymu “tirpdyti ledus” ir “sklaidyti debesis!” - Lina'
 author: []
 sourcePath: _posts/2016-02-10-linkiu-visoms-pasaulio-moterims-kurios-turi-nors-kiek-smal.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: linkiu-visoms-pasaulio-moterims-kurios-turi-nors-kiek-smal/index.html
-_type: Article
+_type: Blurb
 
 ---
 # "Linkiu visoms pasaulio moterims, kurios turi nors kiek smalsumo ir žingeidumo išmėginti pasibuvimą su Vilma ir išmokti nieko nedarymu "tirpdyti ledus" ir "sklaidyti debesis!" - Lina
