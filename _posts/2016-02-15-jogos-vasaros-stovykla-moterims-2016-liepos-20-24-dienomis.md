@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T06:28:38.769Z'
-dateModified: '2016-02-16T06:28:23.148Z'
+datePublished: '2016-02-16T08:27:35.532Z'
+dateModified: '2016-02-16T08:27:32.948Z'
 title: "JOGOS VASAROS STOVYKLA MOTERIMS \_2016 LIEPOS 20-24 D."
 author: []
 sourcePath: _posts/2016-02-15-jogos-vasaros-stovykla-moterims-2016-liepos-20-24-dienomis.md
@@ -22,6 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b5423870c7b41b3933f774e40f42a7aa323a763.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff5a316f0694b277750862379aaa544690221f4d.jpg)
 
 # JOGOS VASAROS STOVYKLA MOTERIMS  2016 LIEPOS 20-24 D.
