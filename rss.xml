@@ -4,11 +4,18 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://www.jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 06:55:25 GMT</lastBuildDate>
         <atom:link href="http://www.jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a0b7bd7-8088-4e59-8187-f88b67eb2287.jpg" alt="" title="">]]></description>
+            <link>http://www.jogamoterimssuvilma.lt/c4770903-e596-4b97-b4b5-7fb3ab426756/index.html</link>
+            <guid isPermaLink="false">c4770903-e596-4b97-b4b5-7fb3ab426756</guid>
+            <pubDate>Wed, 17 Feb 2016 06:55:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[nežinoma autorė]]></title>
-            <description><![CDATA[<article><h1>nežinoma autorė</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2d43a4b34d692d4be5e2c0b3191f1551686c96e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>nežinoma autorė</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6605f31b694c267925ee91848348136be11851ea.png"></article>]]></description>
             <link>http://www.jogamoterimssuvilma.lt/b754d18a-bff0-413c-ba1b-76fe86bcc561/index.html</link>
             <guid isPermaLink="false">b754d18a-bff0-413c-ba1b-76fe86bcc561</guid>
             <pubDate>Wed, 17 Feb 2016 06:50:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.jogamoterimssuvilma.lt/fefc64fe-6508-4b1b-a4f8-8bcb48c848a1/index.html</link>
             <guid isPermaLink="false">fefc64fe-6508-4b1b-a4f8-8bcb48c848a1</guid>
             <pubDate>Tue, 16 Feb 2016 07:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/004aae3eec05ee6bf5b0d15fd85d24b98e54d741.jpg" alt="" title="">]]></description>
-            <link>http://www.jogamoterimssuvilma.lt/c2a4a8f4-015a-41cd-97f0-660d985b2a51/index.html</link>
-            <guid isPermaLink="false">c2a4a8f4-015a-41cd-97f0-660d985b2a51</guid>
-            <pubDate>Mon, 15 Feb 2016 20:49:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
