@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://www.jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 07:08:03 GMT</lastBuildDate>
         <atom:link href="http://www.jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11e25e88-e47a-4286-9aec-167c1c008d5c.jpg">]]></description>
+            <link>http://www.jogamoterimssuvilma.lt/a7db74cc-b95a-46bf-9df5-e58766318dec/index.html</link>
+            <guid isPermaLink="false">a7db74cc-b95a-46bf-9df5-e58766318dec</guid>
+            <pubDate>Wed, 17 Feb 2016 07:07:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eac48ea976ec5187938da48a345bbd2062fe277b.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.jogamoterimssuvilma.lt/17e1b3d5-6a1d-4a0f-b448-eac0f63be3fd/index.html</link>
             <guid isPermaLink="false">17e1b3d5-6a1d-4a0f-b448-eac0f63be3fd</guid>
             <pubDate>Tue, 16 Feb 2016 08:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10ffdfb9-e3b8-481f-933a-0b53b67454f5.jpg" alt="" title="">]]></description>
-            <link>http://www.jogamoterimssuvilma.lt/fefc64fe-6508-4b1b-a4f8-8bcb48c848a1/index.html</link>
-            <guid isPermaLink="false">fefc64fe-6508-4b1b-a4f8-8bcb48c848a1</guid>
-            <pubDate>Tue, 16 Feb 2016 07:30:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
