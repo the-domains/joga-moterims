@@ -1,25 +1,27 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: '"Dėkui už galimybę pajausti lengvą, subtiliai gilią jogos pusę". - Dalia'
-datePublished: '2016-02-15T20:54:12.165Z'
-dateModified: '2016-02-15T20:53:57.809Z'
+description: ''
+datePublished: '2016-02-17T08:18:17.096Z'
+dateModified: '2016-02-17T08:18:14.741Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-15-dekui-uz-galimybe-pajausti-lengva-subtiliai-gilia-jogos-pu.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-dekui-uz-galimybe-pajausti-lengva-subtiliai-gilia-jogos-pu.md
-published: true
-_type: Blurb
+url: 8707cf7c-f60b-4f19-9be4-a45d75168047/index.html
+_type: WebPage
 
 ---
-_"Dėkui už galimybę pajausti lengvą, subtiliai gilią jogos pusę." - Dalia_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0fd8bcc-37a6-4cfb-86e5-f47a1e571fea.jpg)
+> . . . dėkui už galimybę pajausti lengvą, subtiliai gilią jogos pusę . . . Dalia
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ade3d8327f8a0e9b87a9a0b1d33612151a2ac877.jpg)
