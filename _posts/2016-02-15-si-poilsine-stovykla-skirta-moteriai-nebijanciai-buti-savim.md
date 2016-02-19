@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ko nesitikėti iš šios stovyklos? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo.   Ko tikėtis iš šios stovyklos? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.'
-datePublished: '2016-02-19T06:47:49.122Z'
-dateModified: '2016-02-19T06:47:35.640Z'
+datePublished: '2016-02-19T06:53:08.813Z'
+dateModified: '2016-02-19T06:47:57.449Z'
 title: ŠI STOVYKLA SKIRTA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 author: []
 sourcePath: _posts/2016-02-15-si-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savim.md
