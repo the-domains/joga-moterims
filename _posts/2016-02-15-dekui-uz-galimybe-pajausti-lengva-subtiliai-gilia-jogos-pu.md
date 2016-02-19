@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T08:18:17.096Z'
-dateModified: '2016-02-17T08:18:14.741Z'
+datePublished: '2016-02-19T06:52:18.654Z'
+dateModified: '2016-02-19T06:52:18.258Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-15-dekui-uz-galimybe-pajausti-lengva-subtiliai-gilia-jogos-pu.md
@@ -22,6 +22,6 @@ url: 8707cf7c-f60b-4f19-9be4-a45d75168047/index.html
 _type: WebPage
 
 ---
-> . . . dėkui už galimybę pajausti lengvą, subtiliai gilią jogos pusę . . . Dalia
+> Dėkui už galimybę pajausti lengvą, subtiliai gilią jogos pusę. - Dalia
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ade3d8327f8a0e9b87a9a0b1d33612151a2ac877.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/766302c838bf91b568589a4f506591e9b24f4dea.jpg)
