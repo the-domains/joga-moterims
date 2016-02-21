@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T04:48:51.833Z'
-dateModified: '2016-02-21T04:47:06.076Z'
+datePublished: '2016-02-21T04:50:30.404Z'
+dateModified: '2016-02-21T04:50:30.006Z'
 title: JOGOS VASAROS STOVYKLA MOTERIMS
 author: []
 authors: []
@@ -24,4 +24,4 @@ _type: Article
 ---
 # JOGOS VASAROS STOVYKLA MOTERIMS
 
-**LIEPOS 20-24 D.**
+**LIEPOS 20-24**
