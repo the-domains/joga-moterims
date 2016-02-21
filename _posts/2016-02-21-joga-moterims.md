@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T05:20:19.209Z'
-dateModified: '2016-02-21T05:20:18.806Z'
+datePublished: '2016-02-21T05:26:40.118Z'
+dateModified: '2016-02-21T05:25:39.188Z'
 title: VILMA
 author: []
 sourcePath: _posts/2016-02-21-joga-moterims.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: joga-moterims/index.html
-_type: Article
+_type: WebPage
 
 ---
 # VILMA
