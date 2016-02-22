@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T03:45:51.806Z'
-dateModified: '2016-02-22T03:45:50.430Z'
+datePublished: '2016-02-22T04:06:36.465Z'
+dateModified: '2016-02-22T04:06:29.943Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -44,6 +44,8 @@ UAB Baltasis gluosnis
 Įmonės kodas 300515099
 Mokėjimo paskirtis: 
 Jogos Stovykla 201š + dalyvės vardas ir pavardė.**
+
+****
 
 **Registracija vyksta.
 Dviviečių ir triviečių kambarių skaičius ribotas.
