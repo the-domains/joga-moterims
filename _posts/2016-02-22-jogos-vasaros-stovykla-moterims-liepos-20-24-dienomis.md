@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T03:34:03.750Z'
-dateModified: '2016-02-22T03:33:51.179Z'
-title: "Jogos Vasaros Stovykla Moterims Liepos 20-24 dienomis.\_"
+datePublished: '2016-02-22T03:45:51.806Z'
+dateModified: '2016-02-22T03:45:50.430Z'
+title: "KAINA\_"
 author: []
+sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
-published: true
 url: jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis/index.html
 _type: WebPage
 
 ---
-# Jogos Vasaros Stovykla Moterims Liepos 20-24 dienomis. 
+# KAINA 
 
-## Stovykos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
+## Stovyklos (Liepos 20-24d.) kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
 
 **340€ - savo palapinėje **
 
