@@ -6,20 +6,20 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: Vikintos patyrimas 2015 m. stovykloje
-datePublished: '2016-02-22T19:26:03.849Z'
-dateModified: '2016-02-22T19:25:33.978Z'
+description: 2015 m. stovykla
+datePublished: '2016-02-25T04:23:55.565Z'
+dateModified: '2016-02-25T04:23:36.175Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-22-vikintos-patyrimas-2015-m-stovykloje.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-vikintos-patyrimas-2015-m-stovykloje.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/192667f8-81f5-4503-9e78-0be93f436a14.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1d1c2c-12db-4046-943a-6c5f9411d0bc.jpg)
