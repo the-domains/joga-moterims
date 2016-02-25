@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T06:47:03.603Z'
-dateModified: '2016-02-25T05:13:43.276Z'
+datePublished: '2016-02-25T07:07:00.426Z'
+dateModified: '2016-02-25T07:06:57.536Z'
 title: Poilsinė Stovykla Skirta Moteriai Nebijančiai Būti Savimi
 author: []
+sourcePath: _posts/2016-02-25-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi.md
-published: true
 url: poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi/index.html
 _type: Article
 
