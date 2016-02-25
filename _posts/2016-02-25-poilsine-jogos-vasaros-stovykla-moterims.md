@@ -7,22 +7,22 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-25T04:44:09.967Z'
-dateModified: '2016-02-25T04:43:56.255Z'
-title: "POILSINĖ\_JOGOS VASAROS STOVYKLA MOTERIMS"
+datePublished: '2016-02-25T04:46:00.764Z'
+dateModified: '2016-02-25T04:45:59.673Z'
+title: JOGOS VASAROS STOVYKLA MOTERIMS
 author: []
+sourcePath: _posts/2016-02-25-poilsine-jogos-vasaros-stovykla-moterims.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-poilsine-jogos-vasaros-stovykla-moterims.md
-published: true
 _type: Blurb
 
 ---
-# POILSINĖ JOGOS VASAROS STOVYKLA MOTERIMS
+# JOGOS VASAROS STOVYKLA MOTERIMS
 
 ## su Vilma Zaleskaite-Walters, JAV
 
