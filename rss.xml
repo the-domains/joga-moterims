@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Joga Moterims Su Vilma]]></title>
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 07:56:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 07:58:28 GMT</lastBuildDate>
+        <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://jogamoterimssuvilma.lt/3dcd612d-f262-4963-95b9-587a22a4a603/index.html</link>
+            <guid isPermaLink="false">3dcd612d-f262-4963-95b9-587a22a4a603</guid>
+            <pubDate>Thu, 25 Feb 2016 07:58:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a30eb4b7-6618-4aea-9f1c-1df84782811e.jpg" alt="" title="">]]></description>
-            <link>undefined8a1e2f45-ee7f-4dac-8877-4c68eb50ad5b/index.html</link>
+            <link>http://jogamoterimssuvilma.lt/8a1e2f45-ee7f-4dac-8877-4c68eb50ad5b/index.html</link>
             <guid isPermaLink="false">8a1e2f45-ee7f-4dac-8877-4c68eb50ad5b</guid>
             <pubDate>Thu, 25 Feb 2016 07:55:49 GMT</pubDate>
         </item>
