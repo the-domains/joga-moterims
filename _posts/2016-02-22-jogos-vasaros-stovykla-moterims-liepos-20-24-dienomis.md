@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T17:39:05.765Z'
-dateModified: '2016-02-25T17:38:51.815Z'
+datePublished: '2016-02-25T19:09:46.287Z'
+dateModified: '2016-02-25T19:09:45.745Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -24,13 +24,13 @@ _type: WebPage
 ---
 # KAINA 
 
-## 2016 m. liepos 20-24d.stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
+2016 m. liepos 20-24d.stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
 
-**275€   7-8 vietų kambaryje **
+**275€   **7-8 vietų kambaryje 
 
-**380€   ****4-6****vietų kambaryje **
+**380€   **4-6 vietų kambaryje 
 
-**520€   2-3 vietų kambaryje **
+**520€   **2-3 vietų kambaryje 
 
 **Registracija vyksta.** Vietų skaičius stovykloje ribotas. Dviviečių ir triviečių kambarių skaičius  nedidelis. Kambariai gali būti rezervuoti jau šiandien pervedus 50€ negrąžinamos / kitam asmeniui neperleidžiamos sumos. Pilna stovyklos kaina turi būti sumokėta iki liepos 25 dienos. Po liepos 25 kaina kils 30€ . Mokestis už stovyklą negrąžinamas po liepos 10 dienos. 
 
