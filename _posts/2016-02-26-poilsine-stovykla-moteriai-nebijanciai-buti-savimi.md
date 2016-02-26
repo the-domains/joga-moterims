@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T20:24:59.221Z'
-dateModified: '2016-02-26T20:24:45.195Z'
+datePublished: '2016-02-26T20:43:12.188Z'
+dateModified: '2016-02-26T20:43:11.852Z'
 title: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 author: []
 authors: []
@@ -24,4 +24,4 @@ _type: Article
 ---
 # POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 
-**Ko nesitikėti iš šios stovyklos?** Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. **Ko tikėkitis iš šios stovyklos?** Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
+Ko nesitikėti iš šios stovyklos? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. Ko tikėkitis iš šios stovyklos? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
