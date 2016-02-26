@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joga Moterims Su Vilma]]></title>
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 20:19:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 20:26:00 GMT</lastBuildDate>
+        <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI]]></title>
+            <description><![CDATA[<article><h1>POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1><p>Ko nesitikėti iš šios stovyklos? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. Ko tikėkitis iš šios stovyklos? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.</p></article>]]></description>
+            <link>http://jogamoterimssuvilma.lt/poilsine-stovykla-moteriai-nebijanciai-buti-savimi/index.html</link>
+            <guid isPermaLink="false">66cb87b3-0cef-4924-ab1b-aa6ff9dcfb9b</guid>
+            <pubDate>Fri, 26 Feb 2016 20:24:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a390bb4c-41bf-46d2-b022-9ac200b1ed5d.jpg">]]></description>
-            <link>undefined189b770a-cf94-4709-92bf-c07fc5c532fd/index.html</link>
+            <link>http://jogamoterimssuvilma.lt/189b770a-cf94-4709-92bf-c07fc5c532fd/index.html</link>
             <guid isPermaLink="false">189b770a-cf94-4709-92bf-c07fc5c532fd</guid>
             <pubDate>Fri, 26 Feb 2016 20:15:59 GMT</pubDate>
         </item>
