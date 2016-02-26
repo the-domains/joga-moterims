@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rytas Viesų Ežere, 2015 m. stovykla'
-datePublished: '2016-02-26T20:10:05.135Z'
-dateModified: '2016-02-26T20:09:39.668Z'
+datePublished: '2016-02-26T22:03:51.159Z'
+dateModified: '2016-02-26T22:01:30.581Z'
 title: ''
 author: []
 authors: []
@@ -22,4 +22,4 @@ published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4d2df45-50a7-4cd4-9cfc-3b1106e82633.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c4990ea-b245-42db-8fc9-9ca2e333b262.jpg)
