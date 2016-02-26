@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:26:00.698Z'
-dateModified: '2016-02-26T21:25:54.862Z'
+datePublished: '2016-02-26T21:32:38.851Z'
+dateModified: '2016-02-26T21:32:33.641Z'
 title: VILMOS MOKYTOJA
 author: []
 sourcePath: _posts/2016-02-26-vilmos-mokytoja.md
