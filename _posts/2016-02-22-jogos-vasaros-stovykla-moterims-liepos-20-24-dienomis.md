@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T19:09:46.287Z'
-dateModified: '2016-02-25T19:09:45.745Z'
+datePublished: '2016-02-27T00:58:41.459Z'
+dateModified: '2016-02-27T00:42:21.996Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # KAINA 
 
-2016 m. liepos 20-24d.stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
+Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
 
 **275€   **7-8 vietų kambaryje 
 
