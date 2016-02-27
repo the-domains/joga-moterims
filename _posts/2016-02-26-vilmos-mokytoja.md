@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:35:02.225Z'
-dateModified: '2016-02-26T21:32:46.334Z'
+datePublished: '2016-02-27T00:56:47.482Z'
+dateModified: '2016-02-27T00:56:34.741Z'
 title: VILMOS MOKYTOJA
 author: []
 sourcePath: _posts/2016-02-26-vilmos-mokytoja.md
@@ -22,13 +22,13 @@ url: vilmos-mokytoja/index.html
 _type: WebPage
 
 ---
-Vilmos mokytoja Angela Farmer ir jos vyras Victor van Kooten yra pasaulinio garso jogos mokytojai praktikuojantys ir mokantys jogos daugiau nei 40 metų. 2011 metais, _BBC _ir _Lonely Planet_ įtraukė Angelos ir Victoro jogos studiją [Eftalou Yoga Hall][0] Graikijoje į Pasaulio Geriausių Jogos vietu sąrašą ([Worlds Best Yoga Spots][1]), pavadindami ją "pačia ramiausia."
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bd3ef4e9a501e8c9666031e8f2eb82732327017.jpg)
+Vilmos mokytoja Angela Farmer ir jos vyras Victor van Kooten  - pasaulinio garso jogos mokytojai praktikuojantys ir mokantys jogos daugiau nei 40 metų. 2011 metais, _BBC _ir _Lonely Planet_ įtraukė Angelos ir Victoro jogos studiją [Eftalou Yoga Hall][0] Graikijoje į Pasaulio Geriausių Jogos vietų sąrašą ([Worlds Best Yoga Spots][1]), pavadindami ją "pačia ramiausia."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98cf80a0-487c-4159-86ab-4dcdae578598.png)
 
-2011 metais Angela Farmer ir jos vyras Victor van Kooten Vilmos kvietimu viešėjo Lietuvoje ir vedė savaitgalio pratybas Vilniuje. Skaitykite _Lietuvos Ryto s_[traipsnį ][2]apie šiuos mokytojus.
+2011 metais Angela Farmer ir jos vyras Vilmos kvietimu viešėjo Lietuvoje - Vilniuje jie vedė savaitgalio jogos pratybas. _Lietuvos Ryto _[straipsnis ][2]apie šiuos mokytojus.
 
-Angelos autobiografinė [poema][3].
-
+Angela dedikavo savo autobiografinę [poemą][3] Vilmai ir jos mokinėms. 
+> 
 > Pažįstu Vilmą kaip mokinę, mokytoją ir draugę daugelį metų. Ji - ypatingas žmogus, skleidžiantis džiaugsmą, humorą ir meilę kiekvienoje pamokoje. Ji ypač yra įgudusi dirbti su moterimis. Nepraleisk šios nuostabios galimybės spinduliuoti vidine gyvybe per jogą su Vilma! - ANGELA FARMER
 
 [][3]
