@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T04:33:08.928Z'
-dateModified: '2016-02-27T04:32:28.649Z'
+datePublished: '2016-02-27T04:44:07.204Z'
+dateModified: '2016-02-27T04:43:36.740Z'
 title: VILMOS MOKYTOJA
 author: []
 sourcePath: _posts/2016-02-26-vilmos-mokytoja.md
@@ -24,6 +24,7 @@ _type: WebPage
 ---
 Vilmos mokytoja Angela Farmer ir jos vyras Victor van Kooten  - pasaulinio garso jogos mokytojai praktikuojantys ir mokantys jogos daugiau nei 40 metų. 2011 metais, _BBC _ir _Lonely Planet_ įtraukė Angelos ir Victoro jogos studiją [Eftalou Yoga Hall][0] Graikijoje į Pasaulio Geriausių Jogos vietų sąrašą ([Worlds Best Yoga Spots][1]), pavadindami ją "pačia ramiausia."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98cf80a0-487c-4159-86ab-4dcdae578598.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a70225c-9951-46b4-b731-f8d617a43138.jpg)
 
 Vilmos kvietimu, 2011 metais Angela ir jos vyras Victoras viešėjo Lietuvoje - Vilniuje jie vedė savaitgalio jogos pratybas. Ta proga _Lietuvos Rytas _paruošė __[straipsnį ][2]apie šiuos garsius mokytojus.
 
