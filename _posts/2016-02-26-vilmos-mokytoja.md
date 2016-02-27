@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T05:45:53.455Z'
-dateModified: '2016-02-27T05:45:51.505Z'
+datePublished: '2016-02-27T05:49:09.805Z'
+dateModified: '2016-02-27T05:48:59.393Z'
 title: VILMOS MOKYTOJA
 author: []
 sourcePath: _posts/2016-02-26-vilmos-mokytoja.md
@@ -27,7 +27,7 @@ Vilmos mokytoja Angela Farmer ir jos vyras Victor van Kooten  - pasaulinio garso
 
 Vilmos kvietimu, 2011 metais Angela ir jos vyras Victoras viešėjo Lietuvoje - Vilniuje jie vedė savaitgalio jogos pratybas. Ta proga _Lietuvos Rytas _paruošė __[straipsnį ][2]apie šiuos garsius mokytojus.
 
-Išpildydama Vilmos prašymą aprašyti savo įspūdingą kelią į jogą, 2012 metais Angela sukūrė autobiografinę [poemą][3], kuria ir dedikavo Vilmai bei jos mokinėms. 
+Išpildydama Vilmos prašymą aprašyti savo įspūdingą kelią į jogą, 2012 metais Angela sukūrė autobiografinę [poemą][3], kurią ir dedikavo Vilmai bei jos mokinėms. 
 > 
 > Pažįstu Vilmą kaip mokinę, mokytoją ir draugę daugelį metų. Ji - ypatingas žmogus, skleidžiantis džiaugsmą, humorą ir meilę kiekvienoje pamokoje. Ji ypač yra įgudusi dirbti su moterimis. Nepraleisk šios nuostabios galimybės spinduliuoti vidine gyvybe per jogą su Vilma! - ANGELA FARMER
 
