@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T01:46:48.385Z'
-dateModified: '2016-02-27T01:46:48.057Z'
+datePublished: '2016-02-27T01:53:25.716Z'
+dateModified: '2016-02-27T01:53:25.410Z'
 title: Poilsinė Stovykla Moteriai Nebijančiai Būti Savimi
 authors: []
 publisher:
@@ -24,4 +24,4 @@ _type: Article
 ---
 # Poilsinė Stovykla Moteriai Nebijančiai Būti Savimi
 
-**Ko nesitikėti iš šios stovyklos?** Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. **Ko tikėkitis iš šios stovyklos?** Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
+**Ko nesitikėti iš šios stovyklos? **Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. **Ko tikėkitis iš šios stovyklos?** Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
