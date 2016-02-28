@@ -6,13 +6,13 @@ isBasedOnUrl: 'http://www.moteris.lt/sveikata/apkunumas-ne-kliutis-daryti-joga-i
 inLanguage: lt
 starred: false
 keywords: []
-description: 'Portlande, Oregono valstijoje,moteris turi jogos studiją, čia apkūnuolėms grąžina pasitikėjimą savimi ir gyvenimo džiaugsmą. Jautrumas sau ir aplinkiniams Vilma yra kilusi iš Šiaulių rajone esančio Gruzdžių miestelio. Baigusi vidurinę mokyklą, studijavo tuometės Lietuvos konservatorijos (dabar - Klaipėdos universitetas) Klaipėdos fakultetuose renginių režisūrą. Kaip nutiko, kad jauna daili lietuvaitė atsidūrė Amerikoje?'
-datePublished: '2016-02-28T07:10:02.397Z'
-dateModified: '2016-02-28T07:09:35.317Z'
+description: 'Iš Vilmos lūpų dar ilgai liejasi pasakojimai apie moteris, kurios žengė vieną mažą žingsnelį meilės sau link.  '
+datePublished: '2016-02-28T07:17:31.100Z'
+dateModified: '2016-02-28T07:17:15.476Z'
 author: []
 related: []
 app_links: []
-title: Apkūnumas - ne kliūtis daryti jogą ir gerai jaustis
+title: '"MOTERIS" apie Vilmą '
 sourcePath: _posts/2016-02-28-apkunumas-ne-kliutis-daryti-joga-ir-gerai-jaustis.md
 published: true
 authors: []
