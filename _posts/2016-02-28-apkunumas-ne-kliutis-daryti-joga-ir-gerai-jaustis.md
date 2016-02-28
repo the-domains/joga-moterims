@@ -7,8 +7,8 @@ inLanguage: lt
 starred: false
 keywords: []
 description: 'Iš Vilmos lūpų dar ilgai liejasi pasakojimai apie moteris, kurios žengė vieną mažą žingsnelį meilės sau link.  '
-datePublished: '2016-02-28T07:17:31.100Z'
-dateModified: '2016-02-28T07:17:15.476Z'
+datePublished: '2016-02-28T07:34:57.391Z'
+dateModified: '2016-02-28T07:22:35.159Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Apkūnumas - ne kliūtis daryti jogą ir gerai jaustis</h1><p>Portlande&amp;comma; Oregono valstijoje&amp;comma;moteris turi jogos studiją&amp;comma; čia apkūnuolėms grąžina pasitikėjimą savimi ir gyvenimo džiaugsmą&amp;period; Jautrumas sau ir aplinkiniams Vilma yra kilusi iš Šiaulių rajone esančio Gruzdžių miestelio&amp;period; Baigusi vidurinę mokyklą&amp;comma; studijavo tuometės Lietuvos konservatorijos &amp;lpar;dabar - Klaipėdos universitetas&amp;rpar; Klaipėdos fakultetuose renginių režisūrą&amp;period; Kaip nutiko&amp;comma; kad jauna daili lietuvaitė atsidūrė Amerikoje&amp;quest;</p><img src="http://g4.dcdn.lt/images/pix/file59911713_673ac10f.jpg" /></article>
+<article style=""><h1>Apkūnumas - ne kliūtis daryti jogą ir gerai jaustis</h1><p>Iš Vilmos lūpų dar ilgai liejasi pasakojimai apie moteris, kurios žengė vieną mažą žingsnelį meilės sau link. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b09169cc8c1cf7bda6f89ba7d951e33df065ca5d.jpg" /></article>
