@@ -17,8 +17,8 @@ keywords:
   - practice
   - overweight
 description: "This is an interview with Vilma Zaleskaite, who slipped into a yoga career by accident. In the late 1990's, her American husband was introducing yoga to Lithuania, Latvia, and Belorussia. Vilma grew up in Lithuania and served as an assistant and interpreter for him."
-datePublished: '2016-02-28T07:48:06.962Z'
-dateModified: '2016-02-28T07:47:28.700Z'
+datePublished: '2016-02-28T07:57:54.155Z'
+dateModified: '2016-02-28T07:48:19.140Z'
 author: []
 related: []
 app_links: []
