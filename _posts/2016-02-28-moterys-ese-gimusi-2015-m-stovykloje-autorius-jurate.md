@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: MOTERYS - esė gimusi 2015 m. stovykloje. Autorius - JŪRATĖ
-datePublished: '2016-02-28T20:14:32.198Z'
-dateModified: '2016-02-28T20:14:25.284Z'
+datePublished: '2016-02-28T20:19:37.705Z'
+dateModified: '2016-02-28T20:19:31.468Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
-published: true
 url: moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate/index.html
 _type: Article
 
 ---
-> Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide M?
+> MOTERYS. Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "M"?
 
-Mes, mudu, mylėti, mokytis, mama, mąstyti, melstis, malonė, Moteris....Moterys.... Toks daugiaprasmis ir visa savyje talpinantis žodis. Kaip irpati moteris. Juk mumyse telpa viskas:
+Mama, mes, mudu, mylėti, mokytis, mąstyti, melstis, malonė, Moteris. . . . Moterys. . . . Toks daugiaprasmis ir visa savyje talpinantis žodis. Kaip ir pati moteris. Juk mumyse telpa viskas:
 
 Mes esame mamos, kurios amžinai jaučiamės įsipareigojusios savo, o jei neturime savų, tai giminaičių, pažįstamų, draugų ir kaimynų vaikams. Įsipareigojusios ir už juos atsakingos, dėl jų besijaudinančios ir nerimaujančios. Trokštančios jiems padėti ir apsaugoti, o kartais, jei tik gyvenimo ir gamtos dėsniai leistų, netgi pasiruošusios už juos nugyventi gyvenimą.
 
