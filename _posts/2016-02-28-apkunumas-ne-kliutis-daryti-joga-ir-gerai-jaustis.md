@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.moteris.lt/sveikata/apkunumas-ne-kliutis-daryti-joga-ir-gerai-jaustis.d?id=59911607'
 inLanguage: lt
-starred: false
+starred: true
 keywords: []
 description: 'Iš Vilmos lūpų dar ilgai liejasi pasakojimai apie moteris, kurios žengė vieną mažą žingsnelį meilės sau link.  '
-datePublished: '2016-02-28T20:09:05.259Z'
-dateModified: '2016-02-28T20:08:44.873Z'
+datePublished: '2016-02-29T01:05:10.689Z'
+dateModified: '2016-02-29T01:04:33.440Z'
 author: []
 related: []
 app_links: []
