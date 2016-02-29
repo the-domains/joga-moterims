@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:22:31 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2092a687-6e2b-4c17-856a-9f27b9ce29b6.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/2015-m-stovykla/index.html</link>
+            <guid isPermaLink="false">60ccbc88-10ca-4dd1-acb2-9346a325bd95</guid>
+            <pubDate>Mon, 29 Feb 2016 19:22:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cba36f9-72b6-4ee6-8170-8535094c51e8.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://gid.lt/lietuviu-kalba/joga-kalejime</link>
             <guid isPermaLink="false">43595792-98dd-442f-84d4-6acabfe81b67</guid>
             <pubDate>Mon, 29 Feb 2016 19:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yoga: How We Serve the Larger Woman]]></title>
-            <description><![CDATA[<article><h1>Yoga: How We Serve the Larger Woman</h1><p>This is an interview with Vilma Zaleskaite, who slipped into a yoga career by accident.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf4b10d552a0bba01b94d5d0b90fd4e096ad903.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/rob-schware/yoga-how-we-serve-the-lar_b_4010849.html</link>
-            <guid isPermaLink="false">dc946634-3069-4a5d-a669-f7a3b07a02f2</guid>
-            <pubDate>Mon, 29 Feb 2016 04:49:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
