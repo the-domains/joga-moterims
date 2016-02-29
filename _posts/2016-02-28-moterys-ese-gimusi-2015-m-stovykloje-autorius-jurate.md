@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 m. stovykla, JŪRATĖ'
-datePublished: '2016-02-29T04:37:04.925Z'
-dateModified: '2016-02-29T04:36:53.813Z'
-title: MOTERIS
+datePublished: '2016-02-29T04:40:35.427Z'
+dateModified: '2016-02-29T04:40:21.113Z'
+title: Moteris
 author: []
 sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
 published: true
@@ -22,7 +22,7 @@ url: moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate/index.html
 _type: Article
 
 ---
-MOTERIS
+# Moteris
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d2ccd1c122613903cd7b37351a2116013681a7a.jpg)
 
 > Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "m"?
