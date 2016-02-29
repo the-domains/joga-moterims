@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: MOTERYS - esė gimusi 2015 m. stovykloje.
-datePublished: '2016-02-29T01:15:40.145Z'
-dateModified: '2016-02-29T01:15:39.637Z'
+datePublished: '2016-02-29T04:14:30.964Z'
+dateModified: '2016-02-29T04:14:20.494Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
@@ -22,6 +22,8 @@ url: moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d2ccd1c122613903cd7b37351a2116013681a7a.jpg)
+
 > Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "m"?
 
 Mama. Meilė. Mudvi. Mudu. Mes. Mokslas. Malda. Malonė. Moteris. . . Moterys. . . Toks daugiaprasmis ir visa savyje talpinantis žodis. Kaip ir pati moteris. Juk mumyse telpa viskas:
@@ -57,4 +59,3 @@ Kaip gera tiesiog būti. Ačiū, moterys, kad padėjote man vėl grįžti į tas
 Čia buvo vieta, kur atsivėrė mūsų moteriškumas.
 
 Su gilia pagarba ir žemai nulenkdama galvą prieš šią nuostabią būtį. - JŪRATĖ
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faff808d-8327-4740-b7ab-116dcc0bb368.jpg)
