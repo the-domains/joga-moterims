@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 m. stovykla, JŪRATĖ'
-datePublished: '2016-02-29T06:43:18.435Z'
-dateModified: '2016-02-29T06:42:40.051Z'
+datePublished: '2016-02-29T06:46:39.617Z'
+dateModified: '2016-02-29T06:46:38.218Z'
 title: MOTERYS
 author: []
 sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
