@@ -17,8 +17,8 @@ keywords:
   - practice
   - overweight
 description: "This is an interview with Vilma Zaleskaite, who slipped into a yoga career by accident. In the late 1990's, her American husband was introducing yoga to Lithuania, Latvia, and Belorussia. Vilma grew up in Lithuania and served as an assistant and interpreter for him."
-datePublished: '2016-02-28T08:21:49.415Z'
-dateModified: '2016-02-28T08:07:24.183Z'
+datePublished: '2016-02-29T04:49:31.811Z'
+dateModified: '2016-02-29T04:49:03.913Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Yoga: How We Serve the Larger Woman</h1><p>This is an interview with Vilma Zaleskaite, who slipped into a yoga career by accident.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf4b10d552a0bba01b94d5d0b90fd4e096ad903.jpg" /></article>
+<article style=""><h1>Yoga: How We Serve the Larger Woman</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf4b10d552a0bba01b94d5d0b90fd4e096ad903.jpg" /></article>
