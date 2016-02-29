@@ -4,11 +4,18 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:18:53 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d047fe9f32713b611b4a0c09bd915d04a911735a.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/46d49f2b-2e93-4c3e-8424-6059fba8b41b/index.html</link>
+            <guid isPermaLink="false">46d49f2b-2e93-4c3e-8424-6059fba8b41b</guid>
+            <pubDate>Mon, 29 Feb 2016 19:18:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI]]></title>
-            <description><![CDATA[<h1>POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1>]]></description>
+            <description><![CDATA[<article><h1>POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1><p>Ko nesitikėti iš šios stovyklos? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. Ko tikėtis iš šios stovyklos? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.  </p></article>]]></description>
             <link>http://jogamoterimssuvilma.lt/poilsine-stovykla-moteriai-nebijanciai-buti-savimi/index.html</link>
             <guid isPermaLink="false">786751c6-69b9-43fb-87cf-a0dac388a461</guid>
             <pubDate>Mon, 29 Feb 2016 19:17:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/2015-m-stovykla/index.html</link>
             <guid isPermaLink="false">f029022e-6ea6-4f04-888e-9c76c680c99a</guid>
             <pubDate>Sat, 27 Feb 2016 07:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f2dd38fc10aa9704ef831703b5bc5bdd7d3e634.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/2011-m-stovykla/index.html</link>
-            <guid isPermaLink="false">7e188b6a-f66c-48df-9a31-dbee831f10cc</guid>
-            <pubDate>Sat, 27 Feb 2016 17:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
