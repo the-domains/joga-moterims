@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: MOTERYS - esė gimusi 2015 m. stovykloje.
-datePublished: '2016-02-29T04:14:30.964Z'
-dateModified: '2016-02-29T04:14:20.494Z'
-title: ''
+description: '2015 m. stovykla, JŪRATĖ'
+datePublished: '2016-02-29T04:37:04.925Z'
+dateModified: '2016-02-29T04:36:53.813Z'
+title: MOTERIS
 author: []
 sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
 published: true
@@ -22,6 +22,7 @@ url: moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate/index.html
 _type: Article
 
 ---
+MOTERIS
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d2ccd1c122613903cd7b37351a2116013681a7a.jpg)
 
 > Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "m"?
@@ -58,4 +59,6 @@ Kaip gera tiesiog būti. Ačiū, moterys, kad padėjote man vėl grįžti į tas
 
 Čia buvo vieta, kur atsivėrė mūsų moteriškumas.
 
-Su gilia pagarba ir žemai nulenkdama galvą prieš šią nuostabią būtį. - JŪRATĖ
+Su gilia pagarba ir žemai nulenkdama galvą prieš šią nuostabią būtį. 
+
+2015 m. stovykla, - JŪRATĖ
