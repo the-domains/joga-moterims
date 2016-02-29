@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: MOTERYS - esė gimusi 2015 m. stovykloje.
-datePublished: '2016-02-29T01:01:32.055Z'
-dateModified: '2016-02-29T01:01:23.986Z'
+datePublished: '2016-02-29T01:02:15.988Z'
+dateModified: '2016-02-29T01:02:03.100Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
@@ -57,4 +57,3 @@ Kaip gera tiesiog būti. Ačiū, moterys, kad padėjote man vėl grįžti į tas
 Čia buvo vieta, kur atsivėrė mūsų moteriškumas.
 
 Su gilia pagarba ir žemai nulenkdama galvą prieš šią nuostabią būtį. - JŪRATĖ
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7036d359-ee86-46b8-8194-fd9fc2252f5c.jpg)
