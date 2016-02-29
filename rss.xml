@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:22:19 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cba36f9-72b6-4ee6-8170-8535094c51e8.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/98e8e1d3-ad0c-4476-94b2-aba114b4981c/index.html</link>
+            <guid isPermaLink="false">98e8e1d3-ad0c-4476-94b2-aba114b4981c</guid>
+            <pubDate>Mon, 29 Feb 2016 19:21:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a92e08-2f16-4e2e-a13d-63a34eda0e82.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.huffingtonpost.com/rob-schware/yoga-how-we-serve-the-lar_b_4010849.html</link>
             <guid isPermaLink="false">dc946634-3069-4a5d-a669-f7a3b07a02f2</guid>
             <pubDate>Mon, 29 Feb 2016 04:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8d17af0-049f-459e-b3c6-be223a591bc0.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/2015-m-stovykla/index.html</link>
-            <guid isPermaLink="false">d4a5d876-6870-4345-bb51-34f15ec217fe</guid>
-            <pubDate>Sat, 27 Feb 2016 07:23:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
