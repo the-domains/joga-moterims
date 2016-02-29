@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T00:58:41.459Z'
-dateModified: '2016-02-27T00:42:21.996Z'
+datePublished: '2016-02-29T19:32:29.519Z'
+dateModified: '2016-02-29T19:32:17.589Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -32,9 +32,9 @@ Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
 
 **520€   **2-3 vietų kambaryje 
 
-**Registracija vyksta.** Vietų skaičius stovykloje ribotas. Dviviečių ir triviečių kambarių skaičius  nedidelis. Kambariai gali būti rezervuoti jau šiandien pervedus 50€ negrąžinamos / kitam asmeniui neperleidžiamos sumos. Pilna stovyklos kaina turi būti sumokėta iki liepos 25 dienos. Po liepos 25 kaina kils 30€ . Mokestis už stovyklą negrąžinamas po liepos 10 dienos. 
+**Registracija vyksta.** Vietų skaičius stovykloje ribotas. Dviviečių ir triviečių kambarių skaičius  nedidelis. Kambariai gali būti rezervuoti jau šiandien pervedus 50€ negrąžinamos / kitam asmeniui neperleidžiamos sumos. Pilna stovyklos kaina turi būti sumokėta iki liepos 25 dienos. Po liepos 25 kaina kils 30€. Mokestis už stovyklą negrąžinamas po liepos 10 dienos. 
 
-**Mokėti.** AB Šiauliu Bankas A.s. LTB37 182400374724609 Vilma Zaleskaite, Mokėjimo paskirtis: 2016 Stovykla Moterims + dalyvės vardas ir pavardė.
+**Mokėti.** AB Šiauliu Bankas A.s. LTB37 182400374724609 Vilma Zaleskaite, Mokėjimo paskirtis: 2016 stovykla, dalyvės vardas ir pavardė.
 
 **Registracijos eiga:**
 
