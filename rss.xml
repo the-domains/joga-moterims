@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:17:12 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI]]></title>
+            <description><![CDATA[<h1>POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1>]]></description>
+            <link>http://jogamoterimssuvilma.lt/poilsine-stovykla-moteriai-nebijanciai-buti-savimi/index.html</link>
+            <guid isPermaLink="false">786751c6-69b9-43fb-87cf-a0dac388a461</guid>
+            <pubDate>Mon, 29 Feb 2016 19:17:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DRAUGĖS FACEBOOK'E?]]></title>
             <description><![CDATA[<article><h1>DRAUGĖS FACEBOOK'E?</h1><p>Paspauskite šį paveikslėlį. "Pamėkite" mus fb . . . ir . . . BOOM! . . . Draugės! Ar gali būti paprasčiau?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6b9bccd75af5ad3ef1768da755d8b889c1e0e0f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/2011-m-stovykla/index.html</link>
             <guid isPermaLink="false">7e188b6a-f66c-48df-9a31-dbee831f10cc</guid>
             <pubDate>Sat, 27 Feb 2016 17:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/975eb1dc8705ce25f7cf6043e433ac82e6ee5c72.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/2015-m-stovykla/index.html</link>
-            <guid isPermaLink="false">cbd2228b-0e9b-476a-ae33-a63b0ed1854b</guid>
-            <pubDate>Mon, 29 Feb 2016 07:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
