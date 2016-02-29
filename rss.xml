@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 19:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:25:29 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bc33b6a-028f-4865-b987-78924fb47b2b.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/ir-taip-stovykloje-kieviena-ryta/index.html</link>
+            <guid isPermaLink="false">8638c6fe-d6c3-4cef-8654-fca99b769fde</guid>
+            <pubDate>Mon, 29 Feb 2016 19:25:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2092a687-6e2b-4c17-856a-9f27b9ce29b6.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate/index.html</link>
             <guid isPermaLink="false">a5252209-1c7f-4f06-ad38-750119ea2a2c</guid>
             <pubDate>Mon, 29 Feb 2016 19:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joga Kalėjime]]></title>
-            <description><![CDATA[<article><h1>Joga Kalėjime</h1><p>NETIKĖTAS ATRADIMAS: Ruošiant šį tinklapį, visiškai netikėtai Google paieškos metu dėmesį patraukė internete pasirodžiusi nuoroda pavadinimu Joga Kalėjime. Nuoroda atvedė į internetinį puslapį skirtą mokymui kaip teisingai rašyti rašinius. Perskaičius pirmą sakinį tapo aišku - tai Vilmos rašinys apie jos patyrimą Amerikos moterų kalėjime, kur maždaug prieš penkiolika metų ji vedė jogos pamokas. Nelabai aišku kaip ir kokiu būdu šis rašinys atsidurė internete (Vilma sako, kad tik keletas bičiulių turėjo progą rašinį skaityti), tačiau ji dėl to nepergyvena ir nesiruošia reikšti autorinių pretenzijų. Vilma mano, kad jei šis jos darbas gali kam nors ir kuo nors padėti - kodėl gi ne?</p></article>]]></description>
-            <link>http://gid.lt/lietuviu-kalba/joga-kalejime</link>
-            <guid isPermaLink="false">43595792-98dd-442f-84d4-6acabfe81b67</guid>
-            <pubDate>Mon, 29 Feb 2016 19:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
