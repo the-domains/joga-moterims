@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 m. stovykla, JŪRATĖ'
-datePublished: '2016-02-29T04:52:00.388Z'
-dateModified: '2016-02-29T04:44:13.137Z'
+datePublished: '2016-02-29T06:43:18.435Z'
+dateModified: '2016-02-29T06:42:40.051Z'
 title: MOTERYS
 author: []
 sourcePath: _posts/2016-02-28-moterys-ese-gimusi-2015-m-stovykloje-autorius-jurate.md
@@ -27,7 +27,9 @@ _type: Article
 
 > Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "m"?
 
-Mama. Meilė. Mudvi. Mudu. Mes. Mokslas. Malda. Malonė. Moteris. . . Moterys. . . Toks daugiaprasmis ir visa savyje talpinantis žodis. Kaip ir pati moteris. Juk mumyse telpa viskas:
+Mama. Meilė. Mudvi. Mudu. Mes. Mokslas. Malda. Malonė. Moteris. . . 
+
+Moterys. . . Toks daugiaprasmis ir visa savyje talpinantis žodis. Kaip ir pati moteris. Juk mumyse telpa viskas:
 
 Mes esame mamos. Amžinai jaučiamės įsipareigojusios savo, o jei neturime savų, tai giminaičių, pažįstamų, draugų ir kaimynų vaikams. Įsipareigojusios ir už juos atsakingos, dėl jų besijaudinančios ir nerimaujančios. Trokštančios jiems padėti ir apsaugoti, o kartais, jei tik gyvenimo ir gamtos dėsniai leistų, netgi pasiruošusios už juos nugyventi gyvenimą.
 
