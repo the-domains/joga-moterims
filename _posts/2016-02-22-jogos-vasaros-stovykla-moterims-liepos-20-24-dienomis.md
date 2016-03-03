@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T19:50:03.416Z'
-dateModified: '2016-03-02T19:49:27.939Z'
+datePublished: '2016-03-03T17:01:41.408Z'
+dateModified: '2016-03-03T17:01:26.221Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -41,6 +41,6 @@ Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
 * Išsirinkite norimą variantą (viršuje).
 * Pasitikrinkite dėl kambario užimtumo tel. +370 659 71080 jogamoterims@gmail..
 * Padarykite banko pavedimą
-* Mokestinio pavedimo kopiją siūskite jogamoterims@gmail.com 
+* Mokestinio pavedimo kopiją siskite jogamoterims@gmail.com 
 
 ****
