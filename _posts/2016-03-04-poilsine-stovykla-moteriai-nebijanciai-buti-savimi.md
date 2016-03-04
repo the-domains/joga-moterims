@@ -6,22 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T05:54:24.542Z'
-dateModified: '2016-03-04T05:54:24.187Z'
-title: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
+datePublished: '2016-03-04T06:14:13.839Z'
+dateModified: '2016-03-04T06:03:02.443Z'
+title: "POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI \_"
+author: []
+sourcePath: _posts/2016-03-04-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-04-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
-published: true
 url: poilsine-stovykla-moteriai-nebijanciai-buti-savimi/index.html
 _type: Article
 
 ---
-# POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
+# POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI  
 
 Ko nesitikėti iš šios stovyklos? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. Ko tikėtis iš šios stovyklos? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
