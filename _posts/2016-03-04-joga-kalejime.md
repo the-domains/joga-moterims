@@ -7,20 +7,20 @@ inLanguage: lt
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T01:55:06.155Z'
-dateModified: '2016-03-04T01:54:58.963Z'
+datePublished: '2016-03-04T01:56:48.777Z'
+dateModified: '2016-03-04T01:56:34.602Z'
 author: []
 related: []
 app_links: []
 title: 'Joga Kalėjime '
+sourcePath: _posts/2016-03-04-joga-kalejime.md
+published: true
 authors: []
 publisher:
   name: Gid.lt
   domain: gid.lt
   url: 'http://gid.lt'
   favicon: null
-sourcePath: _posts/2016-03-04-joga-kalejime.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
