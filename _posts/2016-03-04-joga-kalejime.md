@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://gid.lt/lietuviu-kalba/joga-kalejime'
 inLanguage: lt
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T02:14:33.034Z'
-dateModified: '2016-03-04T02:13:14.956Z'
+datePublished: '2016-03-04T02:54:42.308Z'
+dateModified: '2016-03-04T02:52:00.055Z'
 author: []
 related: []
 app_links: []
 title: Joga Kalėjime
+sourcePath: _posts/2016-03-04-joga-kalejime.md
+published: true
 authors: []
 publisher:
   name: Gid.lt
   domain: gid.lt
   url: 'http://gid.lt'
   favicon: null
-sourcePath: _posts/2016-03-04-joga-kalejime.md
-published: true
+url: joga-kalejime/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
