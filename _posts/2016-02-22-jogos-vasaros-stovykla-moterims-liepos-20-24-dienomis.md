@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).'
-datePublished: '2016-03-08T17:07:04.086Z'
-dateModified: '2016-03-08T17:06:04.446Z'
+datePublished: '2016-03-08T17:09:43.763Z'
+dateModified: '2016-03-08T17:07:09.976Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
