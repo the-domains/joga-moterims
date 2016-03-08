@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).'
-datePublished: '2016-03-08T17:09:43.763Z'
-dateModified: '2016-03-08T17:07:09.976Z'
+datePublished: '2016-03-08T17:14:35.248Z'
+dateModified: '2016-03-08T17:14:33.829Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -36,8 +36,6 @@ Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
 
 **Mokėti:** AB Šiaulių Bankas A.s. LT837182400374724609\. Gavėjas: Vilma Zaleskaitė. Mokėjimo paskirtis: 2016 stovykla, dalyvės vardas ir pavardė.
 
-Registruotis :
-
 ****
 
 **Registracijos eiga:**
@@ -45,6 +43,9 @@ Registruotis :
 * Išsirinkite norimą variantą (viršuje).
 * Pasitikrinkite dėl kambario užimtumo tel. +370 65971080 
 * Padarykite banko pavedimą
+* Registruokitės [čia][0]
 * Mokestinio pavedimo kopiją siųskite jogamoterims@gmail.com 
 
 ****
+
+[0]: http://goo.gl/forms/Tni9gJQtJq
