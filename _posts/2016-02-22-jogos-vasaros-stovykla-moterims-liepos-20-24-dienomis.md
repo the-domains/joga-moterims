@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).'
-datePublished: '2016-03-08T17:14:35.248Z'
-dateModified: '2016-03-08T17:14:33.829Z'
+description: 'Į stovyklos kainą įskaičiuota: apgyvendinimas, maitinimas, pratybos.'
+datePublished: '2016-03-14T17:37:16.681Z'
+dateModified: '2016-03-14T17:36:44.655Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -24,28 +24,30 @@ _type: WebPage
 ---
 # KAINA 
 
-Stovyklos kaina dalyvei (apgyvendinimas, maitinimas, pratybos).
+Į stovyklos kainą įskaičiuota: apgyvendinimas, maitinimas, pratybos.
 
-**275€   **7-8 vietų kambaryje 
+**Stovyklos kaina dalyvei, sumokėjusiai pilną sumą iki liepos 1 dienos:**
 
-**380€   **4-6 vietų kambaryje 
+* 275€ - vieta 7-8 vietų kambaryje 
 
-**520€   **2-3 vietų kambaryje 
+* 380€ - vieta 4-6 vietų kambaryje 
 
-**Registracija vyksta.** Vietų skaičius stovykloje ribotas. Dviviečių ir triviečių kambarių skaičius  nedidelis. Kambariai gali būti rezervuoti jau šiandien pervedus 50€ negrąžinamos / kitam asmeniui neperleidžiamos /sumos. Pilna stovyklos kaina turi būti sumokėta iki liepos 1 dienos. Po liepos 1 d. kaina kils 30€. Mokestis už stovyklą negrąžinamas po liepos 10 dienos. 
+* 520€ - vieta 2-3 vietų kambaryje 
 
-**Mokėti:** AB Šiaulių Bankas A.s. LT837182400374724609\. Gavėjas: Vilma Zaleskaitė. Mokėjimo paskirtis: 2016 stovykla, dalyvės vardas ir pavardė.
+**Mokant po liepos 1 d. kaina kils 30****€****.**
 
-****
+**Registracija **vyksta. Vietą galite rezervuoti jau šiandien pervedusi 50€ negrąžinamos sumos. Po liepos 1 dienos mokestis už stovyklą negrąžinamas, bet jūs galite perleisti savo vietą bičiulei. 
+
+**Mokė****ti: **ABŠiaulių Bankas A.s. LT837182400374724609\. Gavėjas: Vilma Zaleskaitė. Mokėjimo paskirtis: 2016 stovykla, dalyvės vardas ir pavardė.
 
 **Registracijos eiga:**
 
-* Išsirinkite norimą variantą (viršuje).
-* Pasitikrinkite dėl kambario užimtumo tel. +370 65971080 
-* Padarykite banko pavedimą
-* Registruokitės [čia][0]
-* Mokestinio pavedimo kopiją siųskite jogamoterims@gmail.com 
+* Išsirinkite pageidaujamą kambarį. 
+
+* Padarykite banko pavedimą.
+
+* Užpildykite registracijos formą [čia][0]. 
 
 ****
 
-[0]: http://goo.gl/forms/Tni9gJQtJq
+[0]: https://docs.google.com/forms/d/1q5AmatokD4ndGjn3YeU6AlUihj-VjAVtYbR-DXb8wQ8/viewform?c=0&w=1
