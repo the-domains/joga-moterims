@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Į stovyklos kainą įskaičiuota: apgyvendinimas, maitinimas, pratybos.'
-datePublished: '2016-03-14T17:46:16.195Z'
-dateModified: '2016-03-14T17:45:37.204Z'
+datePublished: '2016-03-14T17:47:35.747Z'
+dateModified: '2016-03-14T17:47:24.290Z'
 title: "KAINA\_"
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
@@ -34,7 +34,7 @@ _type: WebPage
 
 * 520€ - vieta 2-3 vietų kambaryje 
 
-**Mokant po liepos 1 d. kaina kils 30€**
+**Mokant po liepos 1 d. kaina kils 30€.**
 
 **Registracija **vyksta. Vietą galite rezervuoti jau šiandien pervedusi 50€ negrąžinamos sumos. Po liepos 1 dienos mokestis už stovyklą negrąžinamas, bet jūs galite perleisti savo vietą bičiulei. 
 
