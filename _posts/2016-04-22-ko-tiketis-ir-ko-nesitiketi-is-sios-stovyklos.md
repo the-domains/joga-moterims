@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: KO TIKĖTIS IR KO NESITIKĖTI IŠ ŠIOS STOVYKLOS?
-datePublished: '2016-04-22T22:52:45.760Z'
-dateModified: '2016-04-22T22:52:40.783Z'
+description: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
+datePublished: '2016-04-22T22:53:57.678Z'
+dateModified: '2016-04-22T22:53:47.516Z'
 title: ''
 author:
   - name: ''
@@ -24,5 +24,5 @@ url: ko-tiketis-ir-ko-nesitiketi-is-sios-stovyklos/index.html
 _type: Article
 
 ---
-KO TIKĖTIS IR KO NESITIKĖTI IŠ ŠIOS STOVYKLOS?
+POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5762bec40118f8609c67235c886142cdfa94beb3.jpg)
