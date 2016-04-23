@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ko nesitikėti iš šios stovyklos? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. Ko tikėtis iš šios stovyklos? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.'
-datePublished: '2016-04-23T17:33:54.652Z'
-dateModified: '2016-04-23T17:33:49.831Z'
+datePublished: '2016-04-23T18:03:54.939Z'
+dateModified: '2016-04-23T17:34:02.499Z'
 title: 'POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI '
 author: []
 sourcePath: _posts/2016-03-04-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
