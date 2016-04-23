@@ -5,14 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T22:36:22.333Z'
-dateModified: '2016-04-23T22:35:02.463Z'
-title: FACEBOOKE?
+datePublished: '2016-04-23T23:08:00.202Z'
+dateModified: '2016-04-23T23:07:46.644Z'
+title: facebooke?
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-23-facebooke.md
-published: true
 authors: []
 publisher:
   name: null
@@ -20,13 +18,13 @@ publisher:
   url: null
   favicon: null
 starred: false
+sourcePath: _posts/2016-04-23-facebooke.md
+published: true
 url: facebooke/index.html
 _type: Article
 
 ---
-## [FACEBOOKE?][0]
+## facebooke?
 
 Susidraugaukime ir sužinokite naujienas apie Vilmos pamokas dar patogiau.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecace1ef-2e5c-4876-8d3f-593329906627.jpg)
-
-[0]: https://www.facebook.com/Jogos-Vasaros-Stovykla-Moterims-1420853288240236/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/413ecdec-481d-4dc9-ba5e-0bd82afc94d7.jpg)
