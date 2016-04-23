@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.facebook.com/Jogos-Vasaros-Stovykla-Moterims-14208532
 inLanguage: null
 keywords: []
 description: 'Susidraugaukime ir sužinokite naujienas apie Vilmos pamokas dar patogiau. '
-datePublished: '2016-04-23T23:10:16.953Z'
-dateModified: '2016-04-23T23:10:12.920Z'
+datePublished: '2016-04-23T23:11:43.644Z'
+dateModified: '2016-04-23T23:11:35.269Z'
 title: facebooke?
 author:
   - name: ''
