@@ -1,7 +1,7 @@
 name: Joga Moterims Su Vilma
 favicon: null
-layout_spectrum: 0.61812
-typography_spectrum: 0.25334
+layout_spectrum: 0.56798
+typography_spectrum: 0.84233
 title: Joga Moterims Su Vilma
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4e82a9'
-    - '#ffffff'
-    - '#ff9062'
-    - '#fdd193'
-    - '#7d6a5c'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 1
-  rhythmicContrast: 1
+    - '#fefad5'
+    - '#f7bd74'
+    - '#520000'
+    - '#d05100'
+    - '#697983'
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
