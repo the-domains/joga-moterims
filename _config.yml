@@ -24,6 +24,6 @@ color:
     - '#d7b253'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
