@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T06:20:37.718Z'
-dateModified: '2016-03-04T06:17:23.814Z'
+datePublished: '2016-04-23T03:58:49.189Z'
+dateModified: '2016-03-04T06:20:41.758Z'
 title: "Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide \"m\"? \_ \_ \_ \_ \_"
 author: []
 sourcePath: _posts/2016-03-04-ar-pastebejote-kad-visi-svarbus-zodziai-prasideda-raide-m.md
@@ -27,6 +27,8 @@ _type: Article
 # Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "m"?          
 
 ## Mama. Meilė. Mudvi. Mudu. Mes. Mokslas. Malda. Malonė. Moteris.
+
+****
 
 **Moterys. . . Toks daugiaprasmis ir visa savyje talpinantis žodis. Kaip ir pati moteris. Juk mumyse telpa viskas:**
 
