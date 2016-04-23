@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Joga Moterims Su Vilma]]></title>
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 22:59:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 23:02:14 GMT</lastBuildDate>
+        <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a358250-4dca-4d8a-9bb5-c489a6dc639c.jpg" alt="" title="">]]></description>
-            <link>undefinedsusidraugaukime-ir-suzinokite-naujienas-apie-vilmos-pamokas/index.html</link>
+            <link>https://www.facebook.com/Jogos-Vasaros-Stovykla-Moterims-1420853288240236/</link>
             <guid isPermaLink="false">72e7f184-f419-480c-b3c8-524d1e147dca</guid>
-            <pubDate>Sat, 23 Apr 2016 22:59:00 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 23:02:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
