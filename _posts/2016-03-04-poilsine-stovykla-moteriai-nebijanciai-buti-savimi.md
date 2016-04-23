@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. '
-datePublished: '2016-04-23T18:34:59.594Z'
-dateModified: '2016-04-23T18:30:22.336Z'
+datePublished: '2016-04-23T18:59:17.491Z'
+dateModified: '2016-04-23T18:54:53.476Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-poilsine-stovykla-moteriai-nebijanciai-buti-savimi.md
