@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 07:00:17 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ŠI POILSINĖ STOVYKLA SKIRTA MOTERIAI NEBIJANČIAI BŪTI SAVIMI]]></title>
+            <description><![CDATA[<article><h1>ŠI POILSINĖ STOVYKLA SKIRTA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1><p></p></article>]]></description>
+            <link>http://jogamoterimssuvilma.lt/si-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi/index.html</link>
+            <guid isPermaLink="false">47cf1a60-a7bb-4f0f-969f-12adb392d241</guid>
+            <pubDate>Sun, 24 Apr 2016 07:00:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>KO NESITIKĖTI IŠ ŠIOS STOVYKLOS? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/e2e642a8-41f2-4a95-92f7-11ff1f8e904d/index.html</link>
             <guid isPermaLink="false">e2e642a8-41f2-4a95-92f7-11ff1f8e904d</guid>
             <pubDate>Sun, 24 Apr 2016 06:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/729f8519-e53d-4545-910a-1583a6008905.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/6ec481e5-e7bf-43c7-ab88-164a9719ef97/index.html</link>
-            <guid isPermaLink="false">6ec481e5-e7bf-43c7-ab88-164a9719ef97</guid>
-            <pubDate>Sun, 24 Apr 2016 06:22:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
