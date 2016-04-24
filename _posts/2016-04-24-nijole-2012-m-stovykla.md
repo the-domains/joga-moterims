@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-24T03:42:39.393Z'
-dateModified: '2016-04-24T03:41:59.413Z'
+description: 'Kelias link išsilaisvinimo labai ilgas ir ne toks lengvas kaip atrodo kelio pradžioje. Kaip gera turėti Vedlį tame kelyje. Vilma, dėkoju už nurodytą kryptį. Kaip visada patyriau didelį malonumą būdama Tavo pratybose. Tu darai didelį darbą, kuris duos vaisių ateityje. Mums sunku iš karto priimti ką tu suteiki. Bet žingsnelis po žingsnelio mes einam.'
+datePublished: '2016-04-24T05:06:05.581Z'
+dateModified: '2016-04-24T05:05:54.787Z'
 title: ''
 author: []
 authors: []
