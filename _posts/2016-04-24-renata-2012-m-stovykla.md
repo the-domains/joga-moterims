@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T03:58:58.362Z'
-dateModified: '2016-04-24T03:58:01.717Z'
+datePublished: '2016-04-24T04:04:44.637Z'
+dateModified: '2016-04-24T04:04:16.892Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-24-renata-2012-m-stovykla.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-renata-2012-m-stovykla.md
-published: true
 url: renata-2012-m-stovykla/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1adafcb0-d18f-4ce9-9827-eb439aeb69fa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/adc3238a0f9809fbdca91633dd22767a20c35252.jpg)
