@@ -4,13 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'NIJOLĖ, 2012 m. stovykla'
-datePublished: '2016-04-24T03:28:29.735Z'
-dateModified: '2016-04-24T03:28:27.061Z'
+description: ''
+datePublished: '2016-04-24T03:42:39.393Z'
+dateModified: '2016-04-24T03:41:59.413Z'
 title: ''
-author:
-  - name: ''
-    url: ''
+author: []
 authors: []
 publisher:
   name: null
@@ -24,5 +22,4 @@ url: nijole-2012-m-stovykla/index.html
 _type: Article
 
 ---
-NIJOLĖ, 2012 m. stovykla
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf4150a-cdcd-428e-a28d-ef821023140b.jpg)
+> Kelias link išsilaisvinimo labai ilgas ir ne toks lengvas kaip atrodo kelio pradžioje. Kaip gera turėti Vedlį tame kelyje. Vilma, dėkoju už nurodytą kryptį. Kaip visada patyriau didelį malonumą būdama Tavo pratybose. Tu darai didelį darbą, kuris duos vaisių ateityje. Mums sunku iš karto priimti ką tu suteiki. Bet žingsnelis po žingsnelio mes einam.
