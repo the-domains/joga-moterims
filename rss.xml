@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 06:58:09 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>KO NESITIKĖTI IŠ ŠIOS STOVYKLOS? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo.</p>]]></description>
+            <link>http://jogamoterimssuvilma.lt/ko-nesitiketi-is-sios-stovyklos-ankstyvo-kelimosi-is-lovos/index.html</link>
+            <guid isPermaLink="false">490a82ae-5136-4015-91e5-edf0209fd531</guid>
+            <pubDate>Sun, 24 Apr 2016 06:58:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2388752d-b882-4832-a31f-9e3574fa133f.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/6ec481e5-e7bf-43c7-ab88-164a9719ef97/index.html</link>
             <guid isPermaLink="false">6ec481e5-e7bf-43c7-ab88-164a9719ef97</guid>
             <pubDate>Sun, 24 Apr 2016 06:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e24f7e5f7a6a5df9deab41ff04b15f913c839cf.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/65653b17-c812-442f-9387-47d31be08c2f/index.html</link>
-            <guid isPermaLink="false">65653b17-c812-442f-9387-47d31be08c2f</guid>
-            <pubDate>Sun, 24 Apr 2016 06:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
