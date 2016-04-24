@@ -4,8 +4,21 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 19:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 19:32:32 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NIJOLĖ, 2012 m. stovykla]]></title>
+            <link>http://jogamoterimssuvilma.lt/nijole-2012-m-stovykla/index.html</link>
+            <guid isPermaLink="false">4b995001-6840-4ac9-902f-f48fa06139e9</guid>
+            <pubDate>Sun, 24 Apr 2016 19:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bcebbc7-1763-429e-a3eb-18876b517848.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/0114ad7e-e477-44bf-b6d8-c2eaa642c4e8/index.html</link>
+            <guid isPermaLink="false">0114ad7e-e477-44bf-b6d8-c2eaa642c4e8</guid>
+            <pubDate>Sun, 24 Apr 2016 19:28:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/729f8519-e53d-4545-910a-1583a6008905.jpg" alt="" title="">]]></description>
@@ -19,12 +32,6 @@
             <link>http://gid.lt/lietuviu-kalba/joga-kalejime</link>
             <guid isPermaLink="false">2c232f6f-0d38-4ca4-8acc-e60c4c28bce2</guid>
             <pubDate>Sun, 24 Apr 2016 19:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NIJOLĖ, 2015 m. stovykla]]></title>
-            <link>http://jogamoterimssuvilma.lt/nijole-2012-m-stovykla/index.html</link>
-            <guid isPermaLink="false">4b995001-6840-4ac9-902f-f48fa06139e9</guid>
-            <pubDate>Sun, 24 Apr 2016 18:46:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -66,13 +73,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cbdfb5b-0e3e-433e-ad25-7d4952c45813.jpg" alt="" title="">]]></description>
             <link>http://jogamoterimssuvilma.lt/f16bda6a-cb56-444f-af18-cc9da880b756/index.html</link>
             <guid isPermaLink="false">f16bda6a-cb56-444f-af18-cc9da880b756</guid>
-            <pubDate>Sun, 24 Apr 2016 06:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08afa230-0849-4e48-91c4-4008b481c51c.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/ee30d118-157d-4bff-96e9-8ba07106bd22/index.html</link>
-            <guid isPermaLink="false">ee30d118-157d-4bff-96e9-8ba07106bd22</guid>
             <pubDate>Sun, 24 Apr 2016 06:53:07 GMT</pubDate>
         </item>
     </channel>
