@@ -6,12 +6,14 @@ isBasedOnUrl: 'http://eepurl.com/bY-D_n'
 inLanguage: null
 keywords: []
 description: apie Vilmos pamokas Lietuvoje tiesiai į savo pašto dėžutę.
-datePublished: '2016-04-24T06:14:24.563Z'
-dateModified: '2016-04-24T04:53:52.055Z'
+datePublished: '2016-04-24T06:30:15.160Z'
+dateModified: '2016-04-24T06:14:32.881Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-gaukite-musu-naujienlaiski.md
+published: true
 authors: []
 publisher:
   name: null
@@ -19,8 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-gaukite-musu-naujienlaiski.md
-published: true
 _type: MediaObject
 
 ---
