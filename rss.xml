@@ -4,8 +4,21 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 07:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 18:36:14 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NIJOLĖ, 2015 m. stovykla]]></title>
+            <link>http://jogamoterimssuvilma.lt/nijole-2012-m-stovykla/index.html</link>
+            <guid isPermaLink="false">4b995001-6840-4ac9-902f-f48fa06139e9</guid>
+            <pubDate>Sun, 24 Apr 2016 18:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e7f70bf-c284-48d8-b74e-f0acce282c26.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/4336a0fd-5c03-409c-9381-7e0736856731/index.html</link>
+            <guid isPermaLink="false">4336a0fd-5c03-409c-9381-7e0736856731</guid>
+            <pubDate>Sun, 24 Apr 2016 18:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI]]></title>
             <description><![CDATA[<article><h1>POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1><p></p></article>]]></description>
@@ -61,13 +74,6 @@
             <link>http://jogamoterimssuvilma.lt/ar-pastebejote-kad-visi-svarbus-zodziai-prasideda-raide-m/index.html</link>
             <guid isPermaLink="false">45883d28-11e4-4b84-a25b-4ed57115e0b3</guid>
             <pubDate>Sun, 24 Apr 2016 06:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0d6be2-3621-48a0-a442-1ab0b19dc729.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/e2e642a8-41f2-4a95-92f7-11ff1f8e904d/index.html</link>
-            <guid isPermaLink="false">e2e642a8-41f2-4a95-92f7-11ff1f8e904d</guid>
-            <pubDate>Sun, 24 Apr 2016 06:27:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
