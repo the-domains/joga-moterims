@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 05:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 05:44:50 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe682602-0383-445b-917a-ff65b704c171.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/labai-dziaugiuosi-patekusi-i-sia-stovykla-stebiuosi-vilmos/index.html</link>
+            <guid isPermaLink="false">18caa5d1-209c-4dd8-a2bd-2fc39dda11c8</guid>
+            <pubDate>Sun, 24 Apr 2016 05:44:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a562825-30e7-4ab5-8d1b-45b09c37bd3a.jpg" alt="" title="" />]]></description>
@@ -67,13 +74,6 @@
             <link>http://eepurl.com/bY-D_n</link>
             <guid isPermaLink="false">16950ea8-1d7a-48c0-818d-876bb2c16028</guid>
             <pubDate>Sun, 24 Apr 2016 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[facebooke?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d54a8cfe-dc72-4735-bbfe-b32373199447.jpg" alt="" title="">]]></description>
-            <link>https://www.facebook.com/Jogos-Vasaros-Stovykla-Moterims-1420853288240236/</link>
-            <guid isPermaLink="false">877d4b1e-b1d7-4e6e-b2df-a3f31d2d2362</guid>
-            <pubDate>Sun, 24 Apr 2016 03:17:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
