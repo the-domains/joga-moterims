@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 06:14:28 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/729f8519-e53d-4545-910a-1583a6008905.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/6ec481e5-e7bf-43c7-ab88-164a9719ef97/index.html</link>
+            <guid isPermaLink="false">6ec481e5-e7bf-43c7-ab88-164a9719ef97</guid>
+            <pubDate>Sun, 24 Apr 2016 06:13:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/752d4830-b0ee-4d06-9ef8-ca9d7f5628cd.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/724a782f-4b8f-485f-b6cd-e4525ed117ae/index.html</link>
             <guid isPermaLink="false">724a782f-4b8f-485f-b6cd-e4525ed117ae</guid>
             <pubDate>Sun, 24 Apr 2016 05:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ac27da048a7c0c59e631a18c61f052b2a5565f2.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/dekui-uz-galimybe-pajausti-lengva-subtiliai-gilia-jogos-pus/index.html</link>
-            <guid isPermaLink="false">337652c2-169f-4526-ae37-5b3fb0f4adb9</guid>
-            <pubDate>Sun, 24 Apr 2016 05:28:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
