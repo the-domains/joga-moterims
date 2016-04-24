@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 06:42:29 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71c1ad09-4223-4691-a4b9-e00726bc785f.jpg">]]></description>
+            <link>http://jogamoterimssuvilma.lt/031c1f01-ff40-4e56-a4b9-3ff3f483ddac/index.html</link>
+            <guid isPermaLink="false">031c1f01-ff40-4e56-a4b9-3ff3f483ddac</guid>
+            <pubDate>Sun, 24 Apr 2016 06:42:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ar pastebėjote, kad visi svarbūs žodžiai prasideda raide "m"?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/857ff59f-8366-4403-8b23-92750489aefd.jpg" alt="" title="" />]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/36ed1ca8-6835-4b38-9ec9-162a9b4f50b9/index.html</link>
             <guid isPermaLink="false">36ed1ca8-6835-4b38-9ec9-162a9b4f50b9</guid>
             <pubDate>Sun, 24 Apr 2016 06:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d14c98c71624e1ba1cd6cbb3956f90cc4da223fa.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/labai-dziaugiuosi-patekusi-i-sia-stovykla-stebiuosi-vilmos/index.html</link>
-            <guid isPermaLink="false">18caa5d1-209c-4dd8-a2bd-2fc39dda11c8</guid>
-            <pubDate>Sun, 24 Apr 2016 05:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
