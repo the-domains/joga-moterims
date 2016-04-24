@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://eepurl.com/bY-D_n'
 inLanguage: null
 keywords: []
 description: apie Vilmos pamokas Lietuvoje tiesiai į savo pašto dėžutę.
-datePublished: '2016-04-24T06:30:15.160Z'
-dateModified: '2016-04-24T06:14:32.881Z'
+datePublished: '2016-04-24T07:05:52.365Z'
+dateModified: '2016-04-24T06:30:25.316Z'
 title: ''
 author:
   - name: ''
