@@ -2,12 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://goo.gl/forms/Tni9gJQtJq'
+isBasedOnUrl: 'http://eepurl.com/bY-D_n'
 inLanguage: null
 keywords: []
-description: Apie Vilmos pamokas Jūsų Mieste tiesiai į pašto dėžutę.
-datePublished: '2016-04-24T01:46:46.246Z'
-dateModified: '2016-04-24T01:46:29.399Z'
+description: apie Vilmos pamokas Jūsų Mieste tiesiai į savo pašto dėžutę.
+datePublished: '2016-04-24T02:48:11.239Z'
+dateModified: '2016-04-24T02:48:00.561Z'
 title: ''
 author:
   - name: ''
@@ -24,5 +24,5 @@ published: true
 _type: MediaObject
 
 ---
-Apie Vilmos pamokas Jūsų Mieste tiesiai į pašto dėžutę.
+apie Vilmos pamokas Jūsų Mieste tiesiai į savo pašto dėžutę.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/03b3de3f35bcc724ef2887664555aece0c5a252c.jpg)
