@@ -5,8 +5,8 @@ inNav: false
 inLanguage: lt
 keywords: []
 description: 'pirmoji diena numirėlis - Stoviu prie Arsenalo šalia Vilnelės, Vilniuje. Kažko laukiu. Nežinau ko. Žmonių aplinkui nėra. Nieko nėra. Iš kažkur pasigirsta balsas. „Tu žinai," sako jis. Suprantu, tie žodžiai skirti man, bet balso aš nepažįstu. Ir žinau, kad nežinau ką „žinau" ir ką žinoti turėčiau. Bet apie tai negalvoju.'
-datePublished: '2016-04-24T04:42:34.686Z'
-dateModified: '2016-04-24T04:42:21.022Z'
+datePublished: '2016-04-24T04:43:25.217Z'
+dateModified: '2016-04-24T04:42:41.522Z'
 author:
   - name: Vilma Zaleskaitė
     url: 'http://jogamoterimssuvilma.lt/'
