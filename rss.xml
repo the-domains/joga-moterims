@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 23:28:26 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc82ed3269d9c79a72842b75ef163404477dc5d7.jpg" alt="" title="">]]></description>
+            <link>http://jogamoterimssuvilma.lt/aciu-uz-pamokas-klausyti-jausti-ir-stebeti-uz-paskatinima/index.html</link>
+            <guid isPermaLink="false">259bb003-4e0e-4a09-af20-37f23060dc53</guid>
+            <pubDate>Sun, 24 Apr 2016 23:28:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI]]></title>
             <description><![CDATA[<article><h1>POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI</h1><p> KO NESITIKĖTI IŠ ŠIOS STOVYKLOS? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <link>http://gid.lt/lietuviu-kalba/joga-kalejime</link>
             <guid isPermaLink="false">2c232f6f-0d38-4ca4-8acc-e60c4c28bce2</guid>
             <pubDate>Sun, 24 Apr 2016 19:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af5250b-4afe-4971-b255-ad26b1e22ea5.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/e40f1a36-dcf9-40de-afe4-7ffe6cc00c2b/index.html</link>
-            <guid isPermaLink="false">e40f1a36-dcf9-40de-afe4-7ffe6cc00c2b</guid>
-            <pubDate>Sun, 24 Apr 2016 18:41:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
