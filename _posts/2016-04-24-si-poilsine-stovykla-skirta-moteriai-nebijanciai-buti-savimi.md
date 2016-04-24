@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Nesvarbu ar praktikuojate jogą ar ne, jei norite geriau pažinti save - ši stovykla Jums!'
-datePublished: '2016-04-24T07:12:08.289Z'
-dateModified: '2016-04-24T07:07:16.645Z'
+description: "\_KO NESITIKĖTI IŠ ŠIOS STOVYKLOS?\_Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. KO TIKĖTIS IŠ ŠIOS STOVYKLOS?\_Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo."
+datePublished: '2016-04-24T23:12:38.911Z'
+dateModified: '2016-04-24T07:12:11.791Z'
 title: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 author: []
 sourcePath: _posts/2016-04-24-si-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi.md
