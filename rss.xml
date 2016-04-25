@@ -4,8 +4,15 @@
         <description><![CDATA[Joga Moterims Su Vilma]]></description>
         <link>http://jogamoterimssuvilma.lt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 02:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 02:11:52 GMT</lastBuildDate>
         <atom:link href="http://jogamoterimssuvilma.lt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joga kalėjime]]></title>
+            <description><![CDATA[<article><h1>Joga kalėjime</h1><p>NETIKĖTAS ATRADIMAS! Ruošiant šį tinklapį, netikėtai Google paieškos metu dėmesį patraukė nuoroda pavadinimu “Joga Kalėjime”. Prieš penkiolika metų Amerikos moterų kalėjime Vilma vedė jogos pamokas ir aprašė savo įspūdžius. Nelabai aišku kokiu būdu rašinys atsidūrė internete, bet autorė dėl to nesiruošia reikšti pretenzijų. Ji mano, kad jei šis darbas gali kam nors padėti - kodėlgi ne.</p></article>]]></description>
+            <link>http://gid.lt/lietuviu-kalba/joga-kalejime</link>
+            <guid isPermaLink="false">2c232f6f-0d38-4ca4-8acc-e60c4c28bce2</guid>
+            <pubDate>Mon, 25 Apr 2016 02:11:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af5250b-4afe-4971-b255-ad26b1e22ea5.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jogamoterimssuvilma.lt/2649ad42-7878-410a-a81b-d41e158e66b4/index.html</link>
             <guid isPermaLink="false">2649ad42-7878-410a-a81b-d41e158e66b4</guid>
             <pubDate>Sun, 24 Apr 2016 23:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cbdfb5b-0e3e-433e-ad25-7d4952c45813.jpg" alt="" title="">]]></description>
-            <link>http://jogamoterimssuvilma.lt/f16bda6a-cb56-444f-af18-cc9da880b756/index.html</link>
-            <guid isPermaLink="false">f16bda6a-cb56-444f-af18-cc9da880b756</guid>
-            <pubDate>Sun, 24 Apr 2016 23:25:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
