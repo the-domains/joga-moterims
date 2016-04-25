@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://gid.lt/lietuviu-kalba/joga-kalejime'
 inLanguage: lt
 keywords: []
 description: 'NETIKĖTAS ATRADIMAS! Ruošiant šį tinklapį, netikėtai Google paieškos metu dėmesį patraukė nuoroda pavadinimu “Joga Kalėjime”. Prieš penkiolika metų Amerikos moterų kalėjime Vilma vedė jogos pamokas ir aprašė savo įspūdžius. Nelabai aišku kokiu būdu rašinys atsidūrė internete, bet autorė dėl to nesiruošia reikšti pretenzijų. Ji mano, kad jei šis darbas gali kam nors padėti - kodėlgi ne.'
-datePublished: '2016-04-24T19:25:28.425Z'
-dateModified: '2016-04-24T05:13:44.414Z'
+datePublished: '2016-04-25T02:11:50.025Z'
+dateModified: '2016-04-25T02:11:18.347Z'
 author:
   - name: Vilma Zaleskaitė
     url: 'http://jogamoterimssuvilma.lt/'
