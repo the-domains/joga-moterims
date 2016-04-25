@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' KO NESITIKĖTI IŠ ŠIOS STOVYKLOS? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.'
-datePublished: '2016-04-25T02:52:58.424Z'
-dateModified: '2016-04-25T02:52:44.934Z'
+description: ' KO NESITIKĖTI IŠ ŠIOS STOVYKLOS?Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.'
+datePublished: '2016-04-25T02:55:59.908Z'
+dateModified: '2016-04-25T02:53:04.532Z'
 title: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 author: []
 sourcePath: _posts/2016-04-24-si-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi.md
