@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' KO NESITIKĖTI IŠ ŠIOS STOVYKLOS?Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.'
-datePublished: '2016-04-25T02:58:22.180Z'
-dateModified: '2016-04-25T02:56:06.220Z'
+description: 'KO NESITIKĖTI IŠ ŠIOS STOVYKLOS? Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.'
+datePublished: '2016-04-25T03:00:54.138Z'
+dateModified: '2016-04-25T03:00:23.143Z'
 title: POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 author: []
 sourcePath: _posts/2016-04-24-si-poilsine-stovykla-skirta-moteriai-nebijanciai-buti-savimi.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 # POILSINĖ STOVYKLA MOTERIAI NEBIJANČIAI BŪTI SAVIMI
 
-KO NESITIKĖTI IŠ ŠIOS STOVYKLOS?****Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo**. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? **Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
+**KO NESITIKĖTI IŠ ŠIOS STOVYKLOS? **Ankstyvo kėlimosi iš lovos, privalomo dalyvavimo užsiėmimuose, stereotipinio asanų, kvėpavimo ir meditacijos mokymo**. KO TIKĖTIS IŠ ŠIOS STOVYKLOS? **Ramybės, džiaugsmo, lengvumo, gerumo, švelnumo, tikrumo, grožio, kūrybos, išminties, meilės proveržio. Autentiškos savęs patyrimo.
