@@ -3,12 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'Į stovyklos kainą įskaičiuota: apgyvendinimas, maitinimas, pratybos.'
-datePublished: '2016-03-14T17:49:42.287Z'
-dateModified: '2016-03-14T17:49:39.619Z'
-title: "KAINA\_"
+datePublished: '2016-04-28T18:10:09.112Z'
+dateModified: '2016-04-22T22:17:53.268Z'
+title: 'KAINA '
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis/index.html
 _type: WebPage
 
