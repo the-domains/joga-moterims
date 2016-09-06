@@ -34,6 +34,9 @@ navigation:
   - name: KONTAKTAI
     id: 53bfaa71-2058-4a18-9b07-b70c6904b188
     type: content
+  - name: DUK
+    id: 855ac7ff-d9d4-4ba4-b188-b3aa94b00a69
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f618d4-d307-42ad-a357-bea3869e9baa.jpg
 title: Joga Moterims Su Vilma
