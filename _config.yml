@@ -19,6 +19,12 @@ analytics:
   google: UA-73791543-1
   facebook: null
   twitter: null
+author:
+  name: i_vil
+  url: 'http://jogamoterimssuvilma.lt/'
+  email: vilmaw2000@yahoo.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4125035-4d7e-46e4-b43d-a2a100a45d54.jpg
 name: Joga Moterims Su Vilma
 cta:
   domain: null
@@ -26,5 +32,5 @@ cta:
   version: null
 favicon: null
 title: Joga Moterims Su Vilma
-description: "Joga KITAIP - nuostabus patyrimas! - Dalia\_"
+description: '"Joga KITAIP - nuostabus patyrimas!" - Dalia'
 purpose: []
