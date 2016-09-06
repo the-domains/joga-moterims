@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-02T23:25:04.433Z'
+datePublished: '2016-09-02T23:52:23.599Z'
+sourcePath: _posts/2016-09-02-joga-moterims-su-vilma.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T22:34:42.493Z'
+dateModified: '2016-09-02T23:52:22.951Z'
 title: Joga Moterims su Vilma
 publisher: {}
 description: ''
 starred: true
-sourcePath: _posts/2016-09-02-joga-moterims-su-vilma.md
 url: joga-moterims-su-vilma/index.html
 _type: Article
 
