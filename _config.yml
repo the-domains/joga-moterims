@@ -30,7 +30,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f618d4-d307-42ad-a357-bea3869e9baa.jpg
 title: Joga Moterims Su Vilma
 description: '"Joga KITAIP - nuostabus patyrimas!" - Dalia'
 purpose: []
