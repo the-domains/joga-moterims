@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Į stovyklos kainą įskaičiuota: apgyvendinimas, maitinimas, pratybos.'
-datePublished: '2016-09-02T23:35:21.422Z'
-dateModified: '2016-09-02T23:35:20.336Z'
+datePublished: '2016-09-02T23:42:56.819Z'
+dateModified: '2016-09-02T23:42:56.270Z'
 title: 'KAINA '
 author: []
 sourcePath: _posts/2016-02-22-jogos-vasaros-stovykla-moterims-liepos-20-24-dienomis.md
