@@ -40,11 +40,11 @@ navigation:
   - name: 2016 TURAS LIETUVOJE
     id: d53a67a2-f1d0-41ad-ad77-954c9c67724d
     type: content
-  - name: KONTAKTAI
-    id: 53bfaa71-2058-4a18-9b07-b70c6904b188
-    type: content
   - name: 'KAINA '
     id: 56eb2114-8096-4daf-81f5-5b0fd6af4f33
+    type: content
+  - name: KONTAKTAI
+    id: 53bfaa71-2058-4a18-9b07-b70c6904b188
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f618d4-d307-42ad-a357-bea3869e9baa.jpg
