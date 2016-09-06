@@ -31,11 +31,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: KONTAKTAI
-    id: 53bfaa71-2058-4a18-9b07-b70c6904b188
-    type: content
   - name: DUK
     id: 855ac7ff-d9d4-4ba4-b188-b3aa94b00a69
+    type: content
+  - name: KONTAKTAI
+    id: 53bfaa71-2058-4a18-9b07-b70c6904b188
     type: content
   - name: 2016 TURAS LIETUVOJE
     id: d53a67a2-f1d0-41ad-ad77-954c9c67724d
