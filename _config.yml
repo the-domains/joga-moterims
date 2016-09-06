@@ -31,11 +31,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: DUK
-    id: 855ac7ff-d9d4-4ba4-b188-b3aa94b00a69
-    type: content
   - name: VILMA
     id: b5ca9b1e-7b4b-40b9-86fd-6b89d4c9637d
+    type: content
+  - name: DUK
+    id: 855ac7ff-d9d4-4ba4-b188-b3aa94b00a69
     type: content
   - name: 2016 TURAS LIETUVOJE
     id: d53a67a2-f1d0-41ad-ad77-954c9c67724d
